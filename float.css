@@ -1,0 +1,43 @@
+.contenedor{
+	background-color: #04B4AE;
+	border:2px dotted white;
+	overflow: hidden;
+}
+
+ul{
+	color:white;
+}
+
+li{
+	float: left;
+	height:40px;
+	margin:20px;
+	font-size:20px;
+}
+
+.img_1{
+	float:left;
+	margin: 0em 2em;
+	border: 2px dotted #04B4AE;
+}
+
+.img_2{
+	float:right;
+	margin: 0em 2em;
+	border: 2px dotted #04B4AE;
+}
+h1{
+	font-family: 'Dancing Script', cursive;
+	text-align: center;
+	color:#04B4AE;
+}
+
+p{
+	text-align:justify;
+}
+
+i{
+	color:#04B4AE;
+	float: right;
+	margin: 0em 0.1em;
+}
