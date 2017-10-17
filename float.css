@@ -19,13 +19,18 @@ li{
 	float:left;
 	margin: 0em 2em;
 	border: 2px dotted #04B4AE;
+	width:300px;
 }
 
 .img_2{
 	float:right;
 	margin: 0em 2em;
 	border: 2px dotted #04B4AE;
+	width:300px;
 }
+
+
+
 h1{
 	font-family: 'Dancing Script', cursive;
 	text-align: center;
@@ -40,4 +45,27 @@ i{
 	color:#04B4AE;
 	float: right;
 	margin: 0em 0.1em;
+}
+
+.content4{
+	float:left;
+	margin: 2em 0.5em 1em 2em;
+	border: 2px dotted #04B4AE;
+	width:300px;
+	clear:left;
+
+}
+
+.img_3{
+	margin: 2em 0.5em 1em 0.5em;
+	border: 2px dotted #04B4AE;
+	float:left;
+	width:562px;
+}
+
+.content5{
+	float:left;
+	margin: 2em 2em 1em 0.5em;
+	border: 2px dotted #04B4AE;
+	width:300px;
 }
